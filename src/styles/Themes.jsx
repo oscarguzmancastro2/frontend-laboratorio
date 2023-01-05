@@ -5,4 +5,8 @@ export const theme = {
     azul: "#4c76e2",
     gris: "#acacac",
   },
+  media: {
+    mobile: "768px",
+    tablet: "1000px",
+  },
 };
